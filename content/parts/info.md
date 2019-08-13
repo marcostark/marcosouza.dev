@@ -2,4 +2,4 @@
 title: info
 ---
 
-I am a front-end web developer. I used to be a web designer too, but now I concentrate on the code.
+Mobile and Back-End developer, Machine-Learning enthusiast. In Love With Flutter!
