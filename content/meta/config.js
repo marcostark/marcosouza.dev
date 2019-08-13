@@ -4,7 +4,7 @@ module.exports = {
   siteTitle: "PersonalBlog - a blog starter for GatsbyJS", // <title>
   shortSiteTitle: "PersonalBlog GatsbyJS Starter", // <title> ending for posts and pages
   siteDescription: "PersonalBlog is a GatsbyJS starter.",
-  siteUrl: "marcostark.github.io",
+  siteUrl: "https://www.marcosouza.com.br/",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
