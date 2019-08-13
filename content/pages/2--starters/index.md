@@ -1,6 +1,6 @@
 ---
 title: Other GatsbyJs starters
-menuTitle: My starters
+menuTitle: Projetos
 ---
 
 [Personal**Blog**](https://github.com/greglobinski/gatsby-starter-personal-blog) is not my first [GatsbyJS](https://www.gatsbyjs.org/) starter.

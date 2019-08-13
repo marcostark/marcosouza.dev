@@ -84,7 +84,7 @@ const ListHeader = props => {
     <header>
       {navigatorShape === "closed" && (
         <div className={classes.closed}>
-          <h3>List of posts</h3>
+          <h3>Postagens</h3>
           <IconButton
             aria-label="Expand the list"
             className={classes.expand}
