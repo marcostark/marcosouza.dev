@@ -62,5 +62,3 @@ yarn-error.log
 # editors
 .idea/
 .vscode
-
-.env
