@@ -1,8 +1,8 @@
 ---
-title: Hello World
-subTitle: Apenas um teste.
+title: Hello World, Gatsby!
+subTitle: Blog em desenvolvimento.
 category: "dev"
-cover: photo-1490474418585-ba9bad8fd0ea-cover.jpg
+cover: ironman.png
 ---
 
 Esse é meu primeiro post usando o Gatsby
@@ -23,6 +23,6 @@ Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis met
 
 Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
 
-![unsplash.com](./photo-1490474418585-ba9bad8fd0ea.jpg)
+![unsplash.com](./programing.png)
 
 Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
