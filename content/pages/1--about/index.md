@@ -2,7 +2,7 @@
 title: Sobre mim
 ---
 
-Meu nome é Marcos Souza, nasci em Serra Talhada - PE e sou Engenheiro de Software na [Justa Pagamentos](https://justa.com.vc/).
+Meu nome é Marcos Souza, nasci em Serra Talhada - PE e sou Desenvolvedor Android na [Stone](https://www.stone.com.br/).
 
 Sou estudante de Sistemas de Informação na UAST/UFRPE, onde desenvolvo vários projetos relacionados a IOT,
 Web, mobile e dados abertos. Sou apaixonado por desenvolvimento móvel, seja nativo ou de plataforma cruzada, atualmente estou fascinado por flutter.
@@ -13,7 +13,6 @@ Em paralelo venho adquirindo bastante conhecimento em Inteligência Artificial, 
 
 - Git
 - Android (Java e Kotlin)
-- IOS (Iniciante, porém aprendendo em ritmo acelerado)
 - Flutter
 - Python
 - Django
